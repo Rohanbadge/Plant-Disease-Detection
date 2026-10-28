@@ -1,0 +1,7 @@
+tensorflow>=2.16.0
+keras>=3.0.0
+streamlit>=1.30.0
+gradio>=4.0.0
+pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
